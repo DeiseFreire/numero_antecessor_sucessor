@@ -1,5 +1,7 @@
 ### Função `antecessor_sucessor`
 
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+
 ### Descrição:
 
 Esta função recebe um número inteiro como entrada e retorna o seu antecessor e sucessor em uma tupla.
