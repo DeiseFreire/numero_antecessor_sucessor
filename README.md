@@ -43,15 +43,13 @@ Execute o código acima e digite um número inteiro. A função imprimirá o ant
 * A função pode ser modificada para verificar se o número digitado é um número válido.
 * A função pode ser modificada para usar exceções para lidar com erros.
 
-
-![Replit](https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white)
-
-[`Para executar o código clique aqui`](https://replit.com/@DeiseFreire2022/numeroantecessorsucessor)
+### Processo de desenvolvimento:
 
 
-![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+[![Replit](https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@DeiseFreire2022/numeroantecessorsucessor)
 
-[`Desenvolvimento do código`](https://www.youtube.com/playlist?list=PLZpH1iUcDo5hCRy-PXWZR5xkEwbFw1LB3)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PLZpH1iUcDo5hCRy-PXWZR5xkEwbFw1LB3)
 
 ### Tags
 
