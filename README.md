@@ -43,7 +43,7 @@ Execute o código acima e digite um número inteiro. A função imprimirá o ant
 * A função pode ser modificada para verificar se o número digitado é um número válido.
 * A função pode ser modificada para usar exceções para lidar com erros.
 
-### Processo de desenvolvimento:
+### Processos de desenvolvimento:
 
 
 [![Replit](https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@DeiseFreire2022/numeroantecessorsucessor)
